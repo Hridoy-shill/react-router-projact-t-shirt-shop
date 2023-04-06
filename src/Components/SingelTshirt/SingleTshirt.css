@@ -1,0 +1,9 @@
+.singlecart-parent{
+    border: 1px solid lightblue;
+    padding: 5px;
+    border-radius: 15px;
+}
+.cart-parent img{
+    height: 250px;
+    border-radius: 15px;    
+}
